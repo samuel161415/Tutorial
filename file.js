@@ -1,0 +1,1 @@
+document.getElementById('file').innerHTML='Ya this is fun';
